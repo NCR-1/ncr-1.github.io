@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa8a2adb.css",
-    "main.js": "/static/js/main.c0d30291.js",
+    "main.js": "/static/js/main.9d88ab3d.js",
     "static/media/gym_site.png": "/static/media/gym_site.7706cad5dd82895e518b.png",
     "static/media/profile_picture.jpg": "/static/media/profile_picture.b0776c542e463b5d3126.jpg",
     "static/media/Mark-Pro-Heavy.ttf": "/static/media/Mark-Pro-Heavy.b785a58cebf77e4b7b2e.ttf",
@@ -15,10 +15,10 @@
     "static/media/lottery_app.png": "/static/media/lottery_app.f3d1d370e2fd084f1430.png",
     "index.html": "/index.html",
     "main.fa8a2adb.css.map": "/static/css/main.fa8a2adb.css.map",
-    "main.c0d30291.js.map": "/static/js/main.c0d30291.js.map"
+    "main.9d88ab3d.js.map": "/static/js/main.9d88ab3d.js.map"
   },
   "entrypoints": [
     "static/css/main.fa8a2adb.css",
-    "static/js/main.c0d30291.js"
+    "static/js/main.9d88ab3d.js"
   ]
 }
