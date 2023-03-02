@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa8a2adb.css",
+    "main.js": "/static/js/main.d5f675cb.js",
+    "static/media/gym_site.png": "/static/media/gym_site.7706cad5dd82895e518b.png",
+    "static/media/profile_picture.jpg": "/static/media/profile_picture.b0776c542e463b5d3126.jpg",
+    "static/media/Mark-Pro-Heavy.ttf": "/static/media/Mark-Pro-Heavy.b785a58cebf77e4b7b2e.ttf",
+    "static/media/Mark-Pro-Bold.ttf": "/static/media/Mark-Pro-Bold.3aead6b932c92c4ea148.ttf",
+    "static/media/Mark-Pro.ttf": "/static/media/Mark-Pro.db0581ffcc9c2f5b69bd.ttf",
+    "static/media/library_app.png": "/static/media/library_app.23bf095fe63152dea0b9.png",
+    "static/media/N_logo.png": "/static/media/N_logo.08f5545d0b9e383b8249.png",
+    "static/media/D-DIN.otf": "/static/media/D-DIN.31d456695bd8dea72c8a.otf",
+    "static/media/chess_game.png": "/static/media/chess_game.4f2cae5ca9dfa220d544.png",
+    "static/media/discord_weather_bot.png": "/static/media/discord_weather_bot.013ccf1e933278422adc.png",
+    "static/media/lottery_app.png": "/static/media/lottery_app.f3d1d370e2fd084f1430.png",
+    "index.html": "/index.html",
+    "main.fa8a2adb.css.map": "/static/css/main.fa8a2adb.css.map",
+    "main.d5f675cb.js.map": "/static/js/main.d5f675cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa8a2adb.css",
+    "static/js/main.d5f675cb.js"
+  ]
+}
